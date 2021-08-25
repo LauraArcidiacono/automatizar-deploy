@@ -11,6 +11,7 @@ function App() {
         </p>
         <p>
           No por mucho madrugar se amanece más temprano
+          En el pot petit hi ha la Bona Confitura
         </p>
         <a
           className="App-link"
